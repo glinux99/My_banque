@@ -1,0 +1,803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-21 09:17+0100\n"
+"PO-Revision-Date: 2022-01-21 09:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: B_config\n"
+"X-Poedit-SearchPathExcluded-1: vendor 5\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: B_img\n"
+
+#: html/My_Banque/B_admin/admin_N.php:10
+#: html/mail/My_Banque/B_admin/admin_N.php:9
+msgid "Bienvenu cher Administrateur"
+msgstr "Welcome dear Admin"
+
+#: html/My_Banque/B_admin/admin_N.php:25
+#: html/mail/My_Banque/B_admin/admin_N.php:24
+msgid "Administation"
+msgstr "Administration"
+
+#: html/My_Banque/B_admin/admin_N.php:32
+#: html/mail/My_Banque/B_admin/admin_N.php:31
+msgid "Comptes Clients"
+msgstr "Accounts"
+
+#: html/My_Banque/B_admin/admin_N.php:38
+#: html/My_Banque/B_admin/ajouter_caissier.php:119
+#: html/mail/My_Banque/B_admin/admin_N.php:37
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:119
+msgid "Ajouter Agent"
+msgstr "Add Agent"
+
+#: html/My_Banque/B_admin/admin_N.php:46
+#: html/mail/My_Banque/B_admin/admin_N.php:45
+msgid "Solde courant de la banque"
+msgstr "Current bank balance"
+
+#: html/My_Banque/B_admin/admin_N.php:52
+#: html/mail/My_Banque/B_admin/admin_N.php:51
+msgid " Supprimer un Client/Agent"
+msgstr "Delete a Customer / Agent"
+
+#: html/My_Banque/B_admin/admin_N.php:60
+#: html/mail/My_Banque/B_admin/admin_N.php:59
+msgid "Verifier les payements"
+msgstr "Check payments"
+
+#: html/My_Banque/B_admin/admin_N.php:66
+#: html/mail/My_Banque/B_admin/admin_N.php:65
+msgid "Publier une annonce"
+msgstr "Post an ad"
+
+#: html/My_Banque/B_admin/admin_N.php:75
+#: html/mail/My_Banque/B_admin/admin_N.php:74
+msgid "INFORMATION SUR LES CLIENTS"
+msgstr "CUSTOMER INFORMATION"
+
+#: html/My_Banque/B_admin/admin_N.php:82
+#: html/My_Banque/B_admin/ajouter_caissier.php:40
+#: html/My_Banque/B_admin/supprimer_user_agent.php:24
+#: html/My_Banque/B_users/ajout_cli.php:36
+#: html/My_Banque/B_users/modifier_compte.php:45
+#: html/My_Banque/B_users/profil_user.php:39
+#: html/mail/My_Banque/B_admin/admin_N.php:81
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:40
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:24
+#: html/mail/My_Banque/B_users/ajout_cli.php:36
+#: html/mail/My_Banque/B_users/modifier_compte.php:43
+#: html/mail/My_Banque/B_users/profil_user.php:39
+msgid "Nom"
+msgstr "Name"
+
+#: html/My_Banque/B_admin/admin_N.php:85
+#: html/My_Banque/B_admin/ajouter_caissier.php:44
+#: html/My_Banque/B_admin/supprimer_user_agent.php:25
+#: html/My_Banque/B_users/ajout_cli.php:40
+#: html/My_Banque/B_users/modifier_compte.php:49
+#: html/My_Banque/B_users/profil_user.php:43
+#: html/mail/My_Banque/B_admin/admin_N.php:84
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:44
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:25
+#: html/mail/My_Banque/B_users/ajout_cli.php:40
+#: html/mail/My_Banque/B_users/modifier_compte.php:47
+#: html/mail/My_Banque/B_users/profil_user.php:43
+msgid "Prenom"
+msgstr "First name"
+
+#: html/My_Banque/B_admin/admin_N.php:89
+#: html/My_Banque/B_admin/supprimer_user_agent.php:26
+#: html/mail/My_Banque/B_admin/admin_N.php:88
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:26
+msgid "Matricule"
+msgstr "Registration number"
+
+#: html/My_Banque/B_admin/admin_N.php:91
+#: html/My_Banque/B_admin/supprimer_user_agent.php:27
+#: html/mail/My_Banque/B_admin/admin_N.php:90
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:27
+msgid "Solde"
+msgstr "Balance"
+
+#: html/My_Banque/B_admin/admin_N.php:120
+#: html/mail/My_Banque/B_admin/admin_N.php:119
+msgid "Le solde du compte principale de la banque s'eleve a un montant de"
+msgstr "The balance of the bank's main account amounts to an amount of"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:31
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:31
+msgid "Creation du compte Agent"
+msgstr "Creation of the Agent account"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:48
+#: html/My_Banque/B_users/ajout_cli.php:44
+#: html/My_Banque/B_users/modifier_compte.php:53
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:48
+#: html/mail/My_Banque/B_users/ajout_cli.php:44
+#: html/mail/My_Banque/B_users/modifier_compte.php:51
+msgid "Adresse e-mail"
+msgstr "E-mail address"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:54
+#: html/My_Banque/B_users/ajout_cli.php:50
+#: html/My_Banque/B_users/modifier_compte.php:59
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:54
+#: html/mail/My_Banque/B_users/ajout_cli.php:50
+#: html/mail/My_Banque/B_users/modifier_compte.php:57
+msgid "Matricule Client"
+msgstr "Customer number"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:58
+#: html/My_Banque/B_users/ajout_cli.php:54
+#: html/My_Banque/B_users/modifier_compte.php:63
+#: html/My_Banque/B_users/profil_user.php:55
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:58
+#: html/mail/My_Banque/B_users/ajout_cli.php:54
+#: html/mail/My_Banque/B_users/modifier_compte.php:61
+#: html/mail/My_Banque/B_users/profil_user.php:55
+msgid "Password"
+msgstr "Password"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:62
+#: html/My_Banque/B_users/ajout_cli.php:58
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:62
+#: html/mail/My_Banque/B_users/ajout_cli.php:58
+msgid "Numero Tel:"
+msgstr "Phone number:"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:68
+#: html/My_Banque/B_users/ajout_cli.php:64
+#: html/My_Banque/B_users/modifier_compte.php:73
+#: html/My_Banque/B_users/profil_user.php:65
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:68
+#: html/mail/My_Banque/B_users/ajout_cli.php:64
+#: html/mail/My_Banque/B_users/modifier_compte.php:71
+#: html/mail/My_Banque/B_users/profil_user.php:65
+msgid "Type de Compte"
+msgstr "Type of account"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:70
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:70
+msgid "Select Categorie Agent"
+msgstr "Select Category Agent"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:71
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:71
+msgid "Caissier"
+msgstr "Cashier"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:72
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:72
+msgid "Informaticien"
+msgstr "computer scientist"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:73
+#: html/My_Banque/B_users/confirm.php:44
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:73
+#: html/mail/My_Banque/B_users/confirm.php:44
+msgid "Securite"
+msgstr "Security"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:74
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:74
+msgid "Autres"
+msgstr "Others"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:80
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:80
+msgid "Select Genre"
+msgstr "Select Gender"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:81
+#: html/My_Banque/B_users/modifier_compte.php:89
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:81
+msgid "Feminin"
+msgstr "Feminine"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:82
+#: html/My_Banque/B_users/modifier_compte.php:92
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:82
+msgid "Masculin"
+msgstr "Male"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:92
+#: html/My_Banque/B_users/ajout_cli.php:78
+#: html/My_Banque/B_users/modifier_compte.php:103
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:92
+#: html/mail/My_Banque/B_users/ajout_cli.php:78
+#: html/mail/My_Banque/B_users/modifier_compte.php:99
+msgid "Adresse"
+msgstr "Adress"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:99
+#: html/My_Banque/B_users/ajout_cli.php:85
+#: html/My_Banque/B_users/modifier_compte.php:110
+#: html/My_Banque/B_users/profil_user.php:73
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:99
+#: html/mail/My_Banque/B_users/ajout_cli.php:85
+#: html/mail/My_Banque/B_users/modifier_compte.php:106
+#: html/mail/My_Banque/B_users/profil_user.php:73
+msgid "Ville"
+msgstr "C ity"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:103
+#: html/My_Banque/B_users/ajout_cli.php:89
+#: html/My_Banque/B_users/modifier_compte.php:114
+#: html/My_Banque/B_users/profil_user.php:77
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:103
+#: html/mail/My_Banque/B_users/ajout_cli.php:89
+#: html/mail/My_Banque/B_users/modifier_compte.php:110
+#: html/mail/My_Banque/B_users/profil_user.php:77
+msgid "Province"
+msgstr "Province"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:107
+#: html/My_Banque/B_users/modifier_compte.php:118
+#: html/My_Banque/B_users/profil_user.php:81
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:107
+#: html/mail/My_Banque/B_users/modifier_compte.php:114
+#: html/mail/My_Banque/B_users/profil_user.php:81
+msgid "Pays"
+msgstr "Country"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:114
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:114
+msgid "A propos du Caissier"
+msgstr "About the Cashier"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:143
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:143
+msgid "Prendre une photo du client"
+msgstr "Take a picture of the customer"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:157
+#: html/My_Banque/B_users/modifier_compte.php:514
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:157
+#: html/mail/My_Banque/B_users/modifier_compte.php:510
+msgid "Prendre une photo"
+msgstr "To take a picture"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:167
+#: html/My_Banque/B_users/modifier_compte.php:524
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:167
+#: html/mail/My_Banque/B_users/modifier_compte.php:520
+msgid "Capturer"
+msgstr "Capture"
+
+#: html/My_Banque/B_admin/ajouter_caissier.php:168
+#: html/My_Banque/B_users/modifier_compte.php:525
+#: html/mail/My_Banque/B_admin/ajouter_caissier.php:168
+#: html/mail/My_Banque/B_users/modifier_compte.php:521
+msgid "Confirmer"
+msgstr "Confirm"
+
+#: html/My_Banque/B_admin/supprimer_user_agent.php:8
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:8
+msgid "Supprimer ou desactiver un client ou agent"
+msgstr "Delete or deactivate a customer or agent"
+
+#: html/My_Banque/B_admin/supprimer_user_agent.php:28
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:28
+msgid "Type_compte"
+msgstr "Account_Type"
+
+#: html/My_Banque/B_admin/supprimer_user_agent.php:29
+#: html/mail/My_Banque/B_admin/supprimer_user_agent.php:29
+msgid "compte"
+msgstr "Account"
+
+#: html/My_Banque/B_menu/haut.php:13 html/My_Banque/B_menu/hautmenu.php:14
+#: html/mail/My_Banque/B_menu/haut.php:13
+#: html/mail/My_Banque/B_menu/hautmenu.php:14
+msgid "Envoyez-nous un Email"
+msgstr "Email us"
+
+#: html/My_Banque/B_menu/haut.php:26 html/My_Banque/B_menu/hautmenu.php:27
+#: html/mail/My_Banque/B_menu/haut.php:26
+#: html/mail/My_Banque/B_menu/hautmenu.php:27
+msgid "Appelez-nous"
+msgstr "Call us"
+
+#: html/My_Banque/B_menu/haut.php:39 html/My_Banque/B_menu/hautmenu.php:40
+#: html/mail/My_Banque/B_menu/haut.php:39
+#: html/mail/My_Banque/B_menu/hautmenu.php:40
+msgid "Localisation: Goma"
+msgstr "Location: Goma"
+
+#: html/My_Banque/B_menu/haut.php:52 html/My_Banque/B_menu/hautmenu.php:53
+#: html/mail/My_Banque/B_menu/haut.php:52
+#: html/mail/My_Banque/B_menu/hautmenu.php:53
+msgid "Localisation: Kinshasa"
+msgstr "Location: KInshasa"
+
+#: html/My_Banque/B_users/ajout_cli.php:9 html/My_Banque/B_users/confirm.php:10
+#: html/My_Banque/B_users/profil_user.php:9 html/My_Banque/index.php:11
+#: html/mail/My_Banque/B_users/ajout_cli.php:9
+#: html/mail/My_Banque/B_users/confirm.php:10
+#: html/mail/My_Banque/B_users/profil_user.php:9
+#: html/mail/My_Banque/index.php:8
+msgid "Bienvenu dans Nuru Banque Of Congo"
+msgstr "Welcome to Nuru Bank Of Congo"
+
+#: html/My_Banque/B_users/ajout_cli.php:28
+#: html/mail/My_Banque/B_users/ajout_cli.php:28
+msgid "Ajouter un Client"
+msgstr "Add a Customer"
+
+#: html/My_Banque/B_users/ajout_cli.php:37
+#: html/mail/My_Banque/B_users/ajout_cli.php:37
+msgid "votre nom"
+msgstr "your name"
+
+#: html/My_Banque/B_users/ajout_cli.php:41
+#: html/mail/My_Banque/B_users/ajout_cli.php:41
+msgid "prenom"
+msgstr "first name"
+
+#: html/My_Banque/B_users/ajout_cli.php:51
+#: html/mail/My_Banque/B_users/ajout_cli.php:51
+msgid "votre matricule"
+msgstr "your number"
+
+#: html/My_Banque/B_users/ajout_cli.php:55
+#: html/mail/My_Banque/B_users/ajout_cli.php:55
+msgid "votre password"
+msgstr "your password"
+
+#: html/My_Banque/B_users/ajout_cli.php:68
+#: html/My_Banque/B_users/modifier_compte.php:84
+#: html/My_Banque/B_users/profil_user.php:47
+#: html/mail/My_Banque/B_users/ajout_cli.php:68
+#: html/mail/My_Banque/B_users/modifier_compte.php:82
+#: html/mail/My_Banque/B_users/profil_user.php:47
+msgid "Genre"
+msgstr "Gender"
+
+#: html/My_Banque/B_users/ajout_cli.php:105
+#: html/mail/My_Banque/B_users/ajout_cli.php:105
+#: html/mail/My_Banque/B_users/modifier_compte.php:381
+msgid "Mettre a jour"
+msgstr "Update"
+
+#: html/My_Banque/B_users/ajout_cli.php:112
+#: html/mail/My_Banque/B_users/ajout_cli.php:112
+msgid "Ajouter un mandateur"
+msgstr "Add a proxy"
+
+#: html/My_Banque/B_users/confirm.php:61
+#: html/mail/My_Banque/B_users/confirm.php:61
+msgid "Merci de vouloir bien completer votre code d'Authentification"
+msgstr "Please complete your Authentication code"
+
+#: html/My_Banque/B_users/confirm.php:70
+#: html/mail/My_Banque/B_users/confirm.php:70
+msgid "Valider"
+msgstr "Validate"
+
+#: html/My_Banque/B_users/confirm.php:78
+#: html/My_Banque/B_users/loginsecure.php:148
+#: html/mail/My_Banque/B_users/confirm.php:78
+#: html/mail/My_Banque/B_users/loginsecure.php:148
+#, fuzzy
+#| msgid "Bienvenu"
+msgid "Bienvenu sur"
+msgstr "Welcome"
+
+#: html/My_Banque/B_users/confirm.php:88
+#: html/mail/My_Banque/B_users/confirm.php:88
+msgid ""
+"Vous pouvez vous connecter a notre banque en ligne et faire\n"
+"                                            des transferts, achetez en ligne "
+"etc. juste en vous connectant\n"
+"                                            sur votre compte sur www."
+"nurubanque.cd"
+msgstr "You can connect to our online bank and make transfers, buy online"
+
+#: html/My_Banque/B_users/confirm.php:100
+#: html/mail/My_Banque/B_users/confirm.php:100
+msgid ""
+"Avis de ne pas partager ou publier vos identifiants sur internet\n"
+"                                            /Mobile banking et ATM pin avec "
+"d'autres personnes incluant le staff de Nurubanque"
+msgstr ""
+"Notice not to share or publish your credentials on the internet/Mobile "
+"banking and ATM pin with other people including Nuru  bank staff"
+
+#: html/My_Banque/B_users/loginsecure.php:62
+#: html/mail/My_Banque/B_users/loginsecure.php:62
+msgid "Username login"
+msgstr "Username login"
+
+#: html/My_Banque/B_users/loginsecure.php:65
+#: html/mail/My_Banque/B_users/loginsecure.php:65
+msgid "Creation compte"
+msgstr "Account creation"
+
+#: html/My_Banque/B_users/loginsecure.php:72
+#: html/mail/My_Banque/B_users/loginsecure.php:72
+msgid "Connetez-vous avec votre compte"
+msgstr "Log in with your account"
+
+#: html/My_Banque/B_users/loginsecure.php:76
+#: html/My_Banque/B_users/loginsecure.php:85
+#: html/mail/My_Banque/B_users/loginsecure.php:76
+#: html/mail/My_Banque/B_users/loginsecure.php:85
+msgid "Erreur!"
+msgstr "Error!"
+
+#: html/My_Banque/B_users/loginsecure.php:76
+#: html/mail/My_Banque/B_users/loginsecure.php:76
+msgid "Vos identifiants n'ont pas ete reconnu. Veuillez recommencer!"
+msgstr "Your credentials were not recognized. Please try again!"
+
+#: html/My_Banque/B_users/loginsecure.php:96
+msgid "nom d'utilisateur ou adresse mail"
+msgstr "username or email address"
+
+#: html/My_Banque/B_users/loginsecure.php:100
+#: html/mail/My_Banque/B_users/loginsecure.php:100
+msgid "Connection"
+msgstr "Login"
+
+#: html/My_Banque/B_users/loginsecure.php:107
+#: html/mail/My_Banque/B_users/loginsecure.php:107
+msgid " Se souvenir de vous"
+msgstr "remember you"
+
+#: html/My_Banque/B_users/loginsecure.php:113
+#: html/mail/My_Banque/B_users/loginsecure.php:113
+msgid "Mot de passe oublie?"
+msgstr "Forgot your password?"
+
+#: html/My_Banque/B_users/loginsecure.php:123
+#: html/mail/My_Banque/B_users/loginsecure.php:123
+msgid "Creer votre compte facilement"
+msgstr "Create your account easily"
+
+#: html/My_Banque/B_users/loginsecure.php:126
+#: html/mail/My_Banque/B_users/loginsecure.php:126
+msgid "Votre nom"
+msgstr "Your name"
+
+#: html/My_Banque/B_users/loginsecure.php:127
+#: html/mail/My_Banque/B_users/loginsecure.php:127
+msgid "Votre prenom"
+msgstr "Your first name"
+
+#: html/My_Banque/B_users/loginsecure.php:128
+#: html/mail/My_Banque/B_users/loginsecure.php:128
+msgid "votre adresse mail"
+msgstr "Your email"
+
+#: html/My_Banque/B_users/loginsecure.php:133
+#: html/mail/My_Banque/B_users/loginsecure.php:133
+msgid " J'ai lu et j'accepte les termes de politiques de confidentialites"
+msgstr "I have read and accept the terms of privacy policy"
+
+#: html/My_Banque/B_users/loginsecure.php:137
+#: html/mail/My_Banque/B_users/loginsecure.php:137
+msgid "Soumettre"
+msgstr "Submit"
+
+#: html/My_Banque/B_users/loginsecure.php:158
+#: html/mail/My_Banque/B_users/loginsecure.php:158
+msgid ""
+" Vous pouvez vous connecter a notre banque en ligne et faire\n"
+"                                            des transferts, achetez en ligne "
+"etc. juste en vous connectant\n"
+"                                            sur votre compte sur www."
+"nurubanque.cd"
+msgstr ""
+"You can connect to our online bank and make transfers, buy online etc. just "
+"by logging in on your account on www.nurubanque.cd"
+
+#: html/My_Banque/B_users/loginsecure.php:170
+#: html/mail/My_Banque/B_users/loginsecure.php:170
+msgid ""
+" Avis de ne pas partager ou publier vos identifiants sur internet\n"
+"                                            /Mobile banking et ATM pin avec "
+"d'autres personnes incluant le staff de Nurubanque"
+msgstr ""
+"Notice not to share or publish your credentials on the internet /Mobile "
+"banking and ATM pin with other people including Nuru bank staff"
+
+#: html/My_Banque/B_users/message.php:9
+#: html/mail/My_Banque/B_users/message.php:9
+msgid "Messages"
+msgstr "Posts"
+
+#: html/My_Banque/B_users/message.php:73
+#: html/mail/My_Banque/B_users/message.php:73
+msgid "Envoyer"
+msgstr "Send"
+
+#: html/My_Banque/B_users/message.php:85
+#: html/mail/My_Banque/B_users/message.php:85
+msgid "Membres actifs"
+msgstr "Active members"
+
+#: html/My_Banque/B_users/modifier_compte.php:11
+msgid "modification de votre compte"
+msgstr "change your account"
+
+#: html/My_Banque/B_users/modifier_compte.php:36
+msgid "Modification du compte Client"
+msgstr "Modification of the Customer account"
+
+#: html/My_Banque/B_users/modifier_compte.php:67
+msgid "Numero Tel"
+msgstr "Phone number"
+
+#: html/My_Banque/B_users/modifier_compte.php:75
+msgid "---Select type Compte--"
+msgstr "---Select type Account--"
+
+#: html/My_Banque/B_users/modifier_compte.php:76
+#: html/mail/My_Banque/B_users/modifier_compte.php:74
+msgid "Particulier"
+msgstr "Particular"
+
+#: html/My_Banque/B_users/modifier_compte.php:77 html/My_Banque/index.php:153
+#: html/mail/My_Banque/B_users/modifier_compte.php:75
+#: html/mail/My_Banque/index.php:150
+msgid "Actionnaire/Investisseur"
+msgstr "Shareholder/Investor"
+
+#: html/My_Banque/B_users/modifier_compte.php:78
+#: html/mail/My_Banque/B_users/modifier_compte.php:76
+#, fuzzy
+#| msgid "Un candidat a l'emploi"
+msgid "Candidat a l emploi"
+msgstr "A job candidate"
+
+#: html/My_Banque/B_users/modifier_compte.php:79
+#: html/mail/My_Banque/B_users/modifier_compte.php:77
+msgid "PME"
+msgstr "SME"
+
+#: html/My_Banque/B_users/modifier_compte.php:80
+#: html/mail/My_Banque/B_users/modifier_compte.php:78
+#, fuzzy
+#| msgid "Une entreprise"
+msgid "Entreprise"
+msgstr "Compagny"
+
+#: html/My_Banque/B_users/modifier_compte.php:380
+msgid "A propos de moi"
+msgstr "About me"
+
+#: html/My_Banque/B_users/profil_user.php:35
+#: html/mail/My_Banque/B_users/profil_user.php:35
+msgid "Matricule:"
+msgstr "Registration number:"
+
+#: html/My_Banque/B_users/profil_user.php:51
+#: html/mail/My_Banque/B_users/profil_user.php:51
+msgid "Adresse-mail"
+msgstr "Mail address"
+
+#: html/My_Banque/B_users/profil_user.php:59
+#: html/mail/My_Banque/B_users/profil_user.php:59
+msgid "Numero de tel"
+msgstr "Phone number"
+
+#: html/My_Banque/B_users/profil_user.php:69
+#: html/mail/My_Banque/B_users/profil_user.php:69
+msgid "Adresse 1"
+msgstr "Address 1"
+
+#: html/My_Banque/B_users/profil_user.php:85
+#: html/mail/My_Banque/B_users/profil_user.php:85
+msgid "A propos"
+msgstr "About"
+
+#: html/My_Banque/B_users/rapports.php:28
+#: html/mail/My_Banque/B_users/rapports.php:28
+msgid "Rapport Journalier"
+msgstr "Daily report"
+
+#: html/My_Banque/B_users/rapports.php:28
+#: html/mail/My_Banque/B_users/rapports.php:28
+msgid "Envoyer le rapports"
+msgstr "Send report"
+
+#: html/My_Banque/B_users/rapports.php:35
+#: html/mail/My_Banque/B_users/rapports.php:35
+msgid "Date"
+msgstr "Dated"
+
+#: html/My_Banque/B_users/rapports.php:37
+#: html/mail/My_Banque/B_users/rapports.php:37
+msgid "Details"
+msgstr "Details"
+
+#: html/My_Banque/B_users/rapports.php:38
+#: html/mail/My_Banque/B_users/rapports.php:38
+msgid "Montant"
+msgstr "Amount"
+
+#: html/My_Banque/B_users/rapports.php:39
+#: html/mail/My_Banque/B_users/rapports.php:39
+msgid "Client"
+msgstr "Customer"
+
+#: html/My_Banque/index.php:29 html/mail/My_Banque/index.php:26
+msgid "Mon compte"
+msgstr "My Account"
+
+#: html/My_Banque/index.php:32 html/My_Banque/index2.php:12
+#: html/mail/My_Banque/index.php:29 html/mail/My_Banque/index2.php:12
+msgid "Mes payements"
+msgstr "My payments"
+
+#: html/My_Banque/index.php:35 html/mail/My_Banque/index.php:32
+msgid "Mon epargne"
+msgstr "My savings"
+
+#: html/My_Banque/index.php:38 html/mail/My_Banque/index.php:35
+msgid "Mes credits"
+msgstr "My credits"
+
+#: html/My_Banque/index.php:41 html/mail/My_Banque/index.php:38
+msgid "intermediaire Financiers"
+msgstr "financial intermediary"
+
+#: html/My_Banque/index.php:44 html/mail/My_Banque/index.php:41
+msgid "Statistiques"
+msgstr "Statistics"
+
+#: html/My_Banque/index.php:55 html/My_Banque/index.php:66
+#: html/mail/My_Banque/index.php:52 html/mail/My_Banque/index.php:63
+msgid "Nuru Banque"
+msgstr "Nuru Banque"
+
+#: html/My_Banque/index.php:55 html/mail/My_Banque/index.php:52
+msgid " avec plus d'avantages"
+msgstr " with more benefits"
+
+#: html/My_Banque/index.php:56 html/mail/My_Banque/index.php:53
+msgid "Beneficiez de nombreux produits et services lie a votre compte"
+msgstr "Benefit from many products and services related to your account"
+
+#: html/My_Banque/index.php:58 html/My_Banque/index.php:69
+#: html/My_Banque/index.php:80 html/My_Banque/index.php:91
+#: html/My_Banque/index.php:102 html/My_Banque/index.php:113
+#: html/mail/My_Banque/index.php:55 html/mail/My_Banque/index.php:66
+#: html/mail/My_Banque/index.php:77 html/mail/My_Banque/index.php:88
+#: html/mail/My_Banque/index.php:99 html/mail/My_Banque/index.php:110
+msgid "Debuter avec nous"
+msgstr "Start with us"
+
+#: html/My_Banque/index.php:66 html/mail/My_Banque/index.php:63
+msgid "avec plus de facilite"
+msgstr "with more ease"
+
+#: html/My_Banque/index.php:67 html/mail/My_Banque/index.php:64
+msgid "Epargnez avec Nuru Merchant Bank et realisez vos projets avec facilite"
+msgstr "Save with Nuru Merchant Bank and realize your dreams with ease"
+
+#: html/My_Banque/index.php:77 html/mail/My_Banque/index.php:74
+msgid "pour suivre votre avenir"
+msgstr "pursue your future"
+
+#: html/My_Banque/index.php:78 html/mail/My_Banque/index.php:75
+msgid "Economisez plus d'argent en epargnant pour le prochain venu"
+msgstr "Save more money by saving for newcomers"
+
+#: html/My_Banque/index.php:88 html/mail/My_Banque/index.php:85
+msgid " avec plus d'oportunites"
+msgstr " with more opportunities"
+
+#: html/My_Banque/index.php:89 html/mail/My_Banque/index.php:86
+msgid ""
+"Effectuez toutes vos operations quotidiennes en toutes securite avec votre "
+"compte sur Nuru Merchant Bank"
+msgstr "Perform all your daily operations safely with your account"
+
+#: html/My_Banque/index.php:99 html/mail/My_Banque/index.php:96
+msgid " avec plus simplicite"
+msgstr " simplicity"
+
+#: html/My_Banque/index.php:100 html/mail/My_Banque/index.php:97
+msgid ""
+"effectuez vos retraits en USD ou CDF avec nos cartes bancaires et continuez "
+"vos achats"
+msgstr ""
+"perform withdrawal  USD or CDF with the credit card and continue your "
+"purchases"
+
+#: html/My_Banque/index.php:110 html/mail/My_Banque/index.php:107
+msgid " une banque toujours a vos cotes et prete a vous servir"
+msgstr " A bank always at your side ready to serve you"
+
+#: html/My_Banque/index.php:111 html/mail/My_Banque/index.php:108
+msgid ""
+"Nous respectons nos clients, c'est notre premiere regle, qui nous oblige a "
+"bien securiser votre argent"
+msgstr ""
+"We respect our customers, this is our first rule, which requires us to "
+"secure your money well"
+
+#: html/My_Banque/index.php:127 html/mail/My_Banque/index.php:124
+msgid "POUR UN ACCES RAPIDE, DITES-NOUS QUI VOUS ETES "
+msgstr "For quick access, tell us who you are "
+
+#: html/My_Banque/index.php:141 html/mail/My_Banque/index.php:138
+msgid "Un particulier"
+msgstr "A particular"
+
+#: html/My_Banque/index.php:165 html/mail/My_Banque/index.php:162
+msgid "Un candidat a l'emploi"
+msgstr "A job candidate"
+
+#: html/My_Banque/index.php:177 html/mail/My_Banque/index.php:174
+msgid " Une PME"
+msgstr " SME"
+
+#: html/My_Banque/index.php:188 html/mail/My_Banque/index.php:185
+msgid "Une entreprise"
+msgstr "Compagny"
+
+#: html/My_Banque/index.php:206 html/mail/My_Banque/index.php:203
+msgid ""
+"Nous tenons a remercier l'ensemble de nos clients de nous avoir fait "
+"confiance durant toutes ces annees\n"
+"                                                . Nous serons toujours la "
+"pour vous servire. Heureuse annee 2022 a vous."
+msgstr ""
+"We would like to thank all of our customers for trusting us over the years. "
+"We will always be here to serve you. Happy new year 2022 to you."
+
+#: html/My_Banque/index.php:209 html/mail/My_Banque/index.php:206
+msgid "_STAFF Group"
+msgstr "_STAFF Group"
+
+#: html/My_Banque/index.php:223 html/My_Banque/index.php:237
+#: html/mail/My_Banque/index.php:220 html/mail/My_Banque/index.php:234
+msgid "Liste parmi les meilleurs banques du pays"
+msgstr "Listed and among the best country banks"
+
+#: html/My_Banque/index2.php:11 html/My_Banque/index3.php:11
+#: html/mail/My_Banque/index2.php:11 html/mail/My_Banque/lib/index.php:11
+msgid "Bienvenu"
+msgstr "Welcome"
+
+#: html/mail/My_Banque/B_users/modifier_compte.php:9
+#, fuzzy
+#| msgid "modification de votre compte"
+msgid "Modifier votre compte"
+msgstr "change your account"
+
+#: html/mail/My_Banque/B_users/modifier_compte.php:34
+#, fuzzy
+#| msgid "Modification du compte Client"
+msgid " Modification du compte Client"
+msgstr "Modification of the Customer account"
+
+#: html/mail/My_Banque/B_users/modifier_compte.php:65
+#, fuzzy
+#| msgid "Numero Tel:"
+msgid "Numero Tel: "
+msgstr "Phone number:"
+
+#: html/mail/My_Banque/B_users/modifier_compte.php:376
+#, fuzzy
+#| msgid "A propos de moi"
+msgid "A propos de moi:"
+msgstr "About me"
+
+#: html/mail/My_Banque/B_users/modifier_compte.php:496
+#, fuzzy
+#| msgid "Prendre une photo du client"
+msgid " Prendre une photo du client"
+msgstr "Take a picture of the customer"

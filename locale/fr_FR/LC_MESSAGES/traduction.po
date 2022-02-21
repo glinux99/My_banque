@@ -1,0 +1,975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linux 1.0\n"
+"POT-Creation-Date: 2022-01-28 04:46+0100\n"
+"PO-Revision-Date: 2022-01-28 04:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: Interlab\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: B_menu\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: vendor 5\n"
+"X-Poedit-SearchPathExcluded-2: B_img\n"
+"X-Poedit-SearchPathExcluded-3: B_config\n"
+
+#: B_admin/admin_N.php:10
+msgid "Bienvenu cher Administrateur"
+msgstr "Welcome dear Admin"
+
+#: B_admin/admin_N.php:25
+msgid "Administation"
+msgstr "Administration"
+
+#: B_admin/admin_N.php:32 B_caissier/caissier_N.php:52
+msgid "Comptes Clients"
+msgstr "Accounts"
+
+#: B_admin/admin_N.php:38 B_admin/ajouter_caissier.php:122
+#: B_caissier/ajouter_client.php:120
+msgid "Ajouter Agent"
+msgstr "Add Agent"
+
+#: B_admin/admin_N.php:46 B_caissier/caissier_N.php:46
+msgid "Solde courant de la banque"
+msgstr "Current bank balance"
+
+#: B_admin/admin_N.php:52
+msgid " Supprimer un Client/Agent"
+msgstr " Delete a Customer / Agent"
+
+#: B_admin/admin_N.php:60 B_caissier/caissier_N.php:60
+msgid "Verifier les payements"
+msgstr "Check payments"
+
+#: B_admin/admin_N.php:66 B_caissier/caissier_N.php:32
+msgid "Menu principal"
+msgstr "Main Menu"
+
+#: B_admin/admin_N.php:75 B_caissier/caissier_N.php:75
+msgid "INFORMATION SUR LES CLIENTS"
+msgstr "CUSTOMER INFORMATION"
+
+#: B_admin/admin_N.php:82 B_admin/ajouter_caissier.php:41
+#: B_admin/supprimer_user_agent.php:26 B_caissier/ajouter_client.php:41
+#: B_caissier/caissier_N.php:82 B_users/ajout_cli.php:39
+#: B_users/modifier_compte.php:50 B_users/modifier_compteCli.php:46
+msgid "Nom"
+msgstr "Name"
+
+#: B_admin/admin_N.php:85 B_admin/ajouter_caissier.php:45
+#: B_admin/supprimer_user_agent.php:27 B_caissier/ajouter_client.php:45
+#: B_caissier/caissier_N.php:85 B_users/ajout_cli.php:43
+#: B_users/modifier_compte.php:54 B_users/modifier_compteCli.php:50
+msgid "Prenom"
+msgstr "First name"
+
+#: B_admin/admin_N.php:89 B_admin/supprimer_user_agent.php:28
+#: B_caissier/caissier_N.php:89
+msgid "Matricule"
+msgstr "Registration number"
+
+#: B_admin/admin_N.php:91 B_admin/supprimer_user_agent.php:29
+#: B_caissier/caissier_N.php:91 B_menu/menug.php:187 B_menu/menug_user.php:133
+#: B_menu/menup.php:198
+msgid "Solde"
+msgstr "Balance"
+
+#: B_admin/admin_N.php:120 B_caissier/caissier_N.php:120
+msgid "Le solde du compte principale de la banque s'eleve a un montant de"
+msgstr "The balance of the bank's main account amounts to an amount of"
+
+#: B_admin/ajouter_caissier.php:32 B_caissier/ajouter_client.php:32
+#: B_users/ajout_cli.php:30
+msgid "Creation du compte Agent"
+msgstr "Creation of the Agent account"
+
+#: B_admin/ajouter_caissier.php:49 B_caissier/ajouter_client.php:49
+#: B_users/ajout_cli.php:47 B_users/modifier_compte.php:58
+#: B_users/modifier_compteCli.php:54
+msgid "Adresse e-mail"
+msgstr "E-mail address"
+
+#: B_admin/ajouter_caissier.php:55 B_caissier/ajouter_client.php:55
+#: B_users/ajout_cli.php:53 B_users/modifier_compte.php:64
+#: B_users/modifier_compteCli.php:60 B_users/transaction.php:58
+msgid "Matricule Client"
+msgstr "Customer number"
+
+#: B_admin/ajouter_caissier.php:59 B_caissier/ajouter_client.php:59
+#: B_menu/menug_user.php:177 B_users/ajout_cli.php:57
+#: B_users/modifier_compte.php:68 B_users/modifier_compteCli.php:64
+#: B_users/profil_user.php:72
+msgid "Password"
+msgstr "Password"
+
+#: B_admin/ajouter_caissier.php:63 B_caissier/ajouter_client.php:63
+#: B_users/ajout_cli.php:61
+msgid "Numero Tel:"
+msgstr "Phone number:"
+
+#: B_admin/ajouter_caissier.php:69 B_caissier/ajouter_client.php:69
+#: B_users/ajout_cli.php:67 B_users/modifier_compte.php:78
+#: B_users/modifier_compteCli.php:74
+msgid "Type de Compte"
+msgstr "Type of account"
+
+#: B_admin/ajouter_caissier.php:71 B_caissier/ajouter_client.php:71
+msgid "Select Categorie Agent"
+msgstr "Select Category Agent"
+
+#: B_admin/ajouter_caissier.php:72 B_caissier/ajouter_client.php:72
+msgid "Caissier"
+msgstr "Cashier"
+
+#: B_admin/ajouter_caissier.php:73 B_caissier/ajouter_client.php:73
+msgid "Informaticien"
+msgstr "Computer scientist"
+
+#: B_admin/ajouter_caissier.php:74 B_caissier/ajouter_client.php:74
+msgid "Securite"
+msgstr "Security"
+
+#: B_admin/ajouter_caissier.php:75 B_caissier/ajouter_client.php:75
+#: B_menu/menug.php:55 B_menu/menug_user.php:52 B_menu/menup.php:32
+#: B_menu/menup_user.php:34
+msgid "Autres"
+msgstr "Others"
+
+#: B_admin/ajouter_caissier.php:81 B_caissier/ajouter_client.php:81
+#: B_users/ajout_cli.php:80
+msgid "Select Genre"
+msgstr "Select Gender"
+
+#: B_admin/ajouter_caissier.php:82 B_caissier/ajouter_client.php:82
+#: B_users/ajout_cli.php:81 B_users/modifier_compte.php:94
+#: B_users/modifier_compteCli.php:90 B_users/profil_user.php:111
+msgid "Feminin"
+msgstr "Feminine"
+
+#: B_admin/ajouter_caissier.php:83 B_caissier/ajouter_client.php:83
+#: B_users/ajout_cli.php:82 B_users/modifier_compte.php:97
+#: B_users/modifier_compteCli.php:93 B_users/profil_user.php:111
+msgid "Masculin"
+msgstr "Male"
+
+#: B_admin/ajouter_caissier.php:93 B_caissier/ajouter_client.php:93
+#: B_users/ajout_cli.php:92 B_users/modifier_compte.php:108
+#: B_users/modifier_compteCli.php:104 B_users/profil_user.php:136
+msgid "Adresse"
+msgstr "Adress"
+
+#: B_admin/ajouter_caissier.php:100 B_caissier/ajouter_client.php:100
+#: B_users/ajout_cli.php:99 B_users/modifier_compte.php:115
+#: B_users/modifier_compteCli.php:111 B_users/profil_user.php:145
+msgid "Ville"
+msgstr "C ity"
+
+#: B_admin/ajouter_caissier.php:104 B_caissier/ajouter_client.php:104
+#: B_users/ajout_cli.php:103 B_users/modifier_compte.php:119
+#: B_users/modifier_compteCli.php:115 B_users/profil_user.php:154
+msgid "Province"
+msgstr "Province"
+
+#: B_admin/ajouter_caissier.php:108 B_caissier/ajouter_client.php:108
+#: B_users/ajout_cli.php:107 B_users/modifier_compte.php:123
+#: B_users/modifier_compteCli.php:119 B_users/profil_user.php:163
+msgid "Pays"
+msgstr "Country"
+
+#: B_admin/ajouter_caissier.php:115 B_caissier/ajouter_client.php:115
+msgid "A propos du Caissier"
+msgstr "About the Cashier"
+
+#: B_admin/ajouter_caissier.php:142 B_caissier/ajouter_client.php:152
+#: B_users/ajout_cli.php:147 B_users/modifier_compte.php:419
+#: B_users/modifier_compteCli.php:418
+msgid "Prendre une photo"
+msgstr "To take a picture"
+
+#: B_admin/ajouter_caissier.php:152 B_caissier/ajouter_client.php:162
+#: B_users/ajout_cli.php:157 B_users/modifier_compte.php:429
+#: B_users/modifier_compteCli.php:428
+msgid "Capturer"
+msgstr "Capture"
+
+#: B_admin/ajouter_caissier.php:153 B_caissier/ajouter_client.php:163
+#: B_menu/menug.php:138 B_menu/menug.php:202 B_menu/menug.php:239
+#: B_menu/menug.php:289 B_menu/menug_user.php:97 B_menu/menug_user.php:147
+#: B_menu/menug_user.php:184 B_menu/menup.php:224 B_users/ajout_cli.php:158
+#: B_users/modifier_compte.php:430 B_users/modifier_compteCli.php:429
+msgid "Confirmer"
+msgstr "Confirm"
+
+#: B_admin/supprimer_user_agent.php:10
+msgid "Supprimer ou desactiver un client ou agent"
+msgstr "Delete or deactivate a customer or agent"
+
+#: B_admin/supprimer_user_agent.php:30
+msgid "Type_compte"
+msgstr "Account_Type"
+
+#: B_admin/supprimer_user_agent.php:31
+msgid "compte"
+msgstr "account"
+
+#: B_admin/supprimer_user_agent.php:44
+msgid "Desactiver"
+msgstr "Disable"
+
+#: B_admin/supprimer_user_agent.php:46
+msgid "Activer"
+msgstr "Activate"
+
+#: B_admin/supprimer_user_agent.php:47
+msgid "Supprimer"
+msgstr "Delete"
+
+#: B_caissier/caissier_N.php:10
+msgid "Bienvenu cher Caissier"
+msgstr "Welcome dear cashier"
+
+#: B_caissier/caissier_N.php:25
+msgid "Caissier Administation"
+msgstr "Cashier Administration"
+
+#: B_caissier/caissier_N.php:38
+msgid "Ajouter Clients"
+msgstr "Add Customers"
+
+#: B_caissier/caissier_N.php:66
+msgid "Annuler la derniere ordre"
+msgstr "Cancel last order"
+
+#: B_menu/haut.php:13 B_menu/hautmenu.php:14
+msgid "Envoyez-nous un Email"
+msgstr "Email us"
+
+#: B_menu/haut.php:26 B_menu/hautmenu.php:27
+msgid "Appelez-nous"
+msgstr "Call us"
+
+#: B_menu/haut.php:39 B_menu/hautmenu.php:40
+msgid "Localisation: Goma"
+msgstr "Location: Goma"
+
+#: B_menu/haut.php:52 B_menu/hautmenu.php:53
+msgid "Localisation: Kinshasa"
+msgstr "Location: Kinshasa"
+
+#: B_menu/menug.php:14
+msgid "Client"
+msgstr "Customer"
+
+#: B_menu/menug.php:20
+msgid "Nouveau Client"
+msgstr "Add a Customer"
+
+#: B_menu/menug.php:25
+msgid "Modifier Client"
+msgstr "modifying customer"
+
+#: B_menu/menug.php:34 B_menu/menug_user.php:36
+msgid "Verifier Solde"
+msgstr "Check payments"
+
+#: B_menu/menug.php:40 B_menu/menug_user.php:42 B_users/transaction.php:57
+msgid "Transaction"
+msgstr "Transaction"
+
+#: B_menu/menug.php:45
+msgid "Rapports Clients"
+msgstr "Customers reports"
+
+#: B_menu/menug.php:50
+msgid "Depot"
+msgstr "Deposit"
+
+#: B_menu/menug.php:60 B_menu/menug_user.php:57
+msgid "Deconnection"
+msgstr "Logout"
+
+#: B_menu/menug.php:75
+msgid "DEPOT ARGENT"
+msgstr "MONEY DEPOSIT"
+
+#: B_menu/menug.php:83 B_menu/menug.php:127 B_menu/menug.php:177
+#: B_menu/menug.php:228 B_menu/menug.php:265 B_menu/menug_user.php:124
+#: B_menu/menup.php:59 B_menu/menup.php:188
+msgid "Nom du Compte"
+msgstr "Account name"
+
+#: B_menu/menug.php:87 B_menu/menug.php:131 B_menu/menug.php:181
+#: B_menu/menug.php:232 B_menu/menug.php:269 B_menu/menug_user.php:87
+#: B_menu/menug_user.php:128 B_menu/menug_user.php:171 B_menu/menup.php:63
+#: B_menu/menup.php:192
+msgid "N* Compte"
+msgstr "Account number"
+
+#: B_menu/menug.php:93
+msgid "Select devise"
+msgstr "Select currency"
+
+#: B_menu/menug.php:100
+msgid "Enregistrer"
+msgstr "Record"
+
+#: B_menu/menug.php:101 B_menu/menug.php:139 B_menu/menug.php:240
+#: B_menu/menug.php:290
+msgid "Fermer"
+msgstr "Close"
+
+#: B_menu/menug.php:117 B_menu/menug_user.php:77 B_menu/menug_user.php:112
+msgid "VERIFICATION DU SOLDE"
+msgstr "BALANCE CHECK"
+
+#: B_menu/menug.php:166
+msgid "SOLDE DU COMPTE CLIENT"
+msgstr "BALANCE OF Customer account"
+
+#: B_menu/menug.php:197 B_menu/menug_user.php:142 B_menu/menup.php:219
+msgid "Cette image est une propriete prive de Nuru Banque"
+msgstr "This image is a private property of Nuru Bank"
+
+#: B_menu/menug.php:203 B_menu/menup.php:70 B_menu/menup.php:225
+#: B_menu/menup_user.php:78 B_menu/menup_user.php:108
+msgid "Annuler"
+msgstr "Cancel"
+
+#: B_menu/menug.php:218
+msgid "MODIFICATION DU COMPTE CLIENT"
+msgstr "MODIFICATION OF CUSTOMER ACCOUNT"
+
+#: B_menu/menug.php:255
+msgid "RAPPORTS DU COMPTE CLIENT"
+msgstr "Account Customer report "
+
+#: B_menu/menug_user.php:9
+msgid "Bonjour"
+msgstr "Hello"
+
+#: B_menu/menug_user.php:16
+msgid "Profil"
+msgstr "Profile"
+
+#: B_menu/menug_user.php:22
+msgid "Modifier"
+msgstr "To modify"
+
+#: B_menu/menug_user.php:27
+msgid "Afficher profil"
+msgstr "Show profile"
+
+#: B_menu/menug_user.php:47
+msgid "Rapports"
+msgstr "Reports"
+
+#: B_menu/menug_user.php:92
+msgid "Votre Solde est de"
+msgstr "Your balance is"
+
+#: B_menu/menug_user.php:161
+msgid "IMPRESSION DU RAPPORT HEBDOMADAIRE"
+msgstr "PRINTING OF THE WEEKLY REPORT"
+
+#: B_menu/menup.php:14 B_menu/menup_user.php:16
+msgid " Acceuil"
+msgstr "Home"
+
+#: B_menu/menup.php:17
+msgid "Retrait"
+msgstr "Withdrawal"
+
+#: B_menu/menup.php:20 B_menu/menup_user.php:22
+msgid "Message"
+msgstr "Post"
+
+#: B_menu/menup.php:25 B_menu/menup_user.php:27
+msgid "Partenaires"
+msgstr "Partners"
+
+#: B_menu/menup.php:38 B_menu/menup_user.php:39
+msgid "Info Alert"
+msgstr "InfoAlert"
+
+#: B_menu/menup.php:51 B_menu/menup.php:176
+msgid "RETRAIT ARGENT"
+msgstr "MONEY WITHDRAWAL"
+
+#: B_menu/menup.php:69 B_menu/menup_user.php:77 B_users/message.php:126
+msgid "Envoyer"
+msgstr "Send"
+
+#: B_menu/menup.php:84 B_menu/menup.php:139 B_menu/menup.php:151
+#: B_menu/menup_user.php:177
+msgid "Traitement execute avec success"
+msgstr "Processing executed successfully"
+
+#: B_menu/menup.php:94 B_menu/menup.php:105 B_menu/menup.php:129
+#: B_menu/menup_user.php:153 B_menu/menup_user.php:165
+msgid "Nous n\\'avions pas pu satisfaire a votre demande!"
+msgstr "We could not meet your request!"
+
+#: B_menu/menup.php:96
+msgid "Vous ne pouvez pas tout retrirer! Votre solde minimal doit etre de 5usd"
+msgstr "s can't remove everything! Your minimum balance must be 5usd"
+
+#: B_menu/menup.php:107
+#, fuzzy
+#| msgid "Solde Insufissante!"
+msgid "Solde Insufissante du client!"
+msgstr "Insufficient balance!"
+
+#: B_menu/menup.php:131
+msgid "Verifier si ce compte existe! Cette erreur empeche de vs satisfaire"
+msgstr "ify if this account exists! This error prevents from satisfying"
+
+#: B_menu/menup.php:205
+msgid "Montant"
+msgstr "Amount"
+
+#: B_menu/menup.php:209
+msgid "Select Devise"
+msgstr "Select Currency"
+
+#: B_menu/menup_user.php:19
+msgid "Virement"
+msgstr "Payment"
+
+#: B_menu/menup_user.php:48
+msgid "Virement d'argent"
+msgstr "Money transfer"
+
+#: B_menu/menup_user.php:55
+msgid "Nom du Compte Beneficiaire"
+msgstr "Beneficiary Account Name"
+
+#: B_menu/menup_user.php:59
+msgid "N* Compte du Compte Beneficiaire"
+msgstr "N* Account of Beneficiary Account"
+
+#: B_menu/menup_user.php:64
+msgid "Montant a envoyer"
+msgstr "Amount to send"
+
+#: B_menu/menup_user.php:90
+msgid "Virement d'argent| Confirmation"
+msgstr "Money transfer | Confirmation"
+
+#: B_menu/menup_user.php:98
+msgid "Tranfert d'argent sur le compte de"
+msgstr "Money transfer to account"
+
+#: B_menu/menup_user.php:98
+msgid "numero"
+msgstr "number"
+
+#: B_menu/menup_user.php:99
+msgid "un montant de"
+msgstr "an amount of"
+
+#: B_menu/menup_user.php:99
+msgid "Confirmez par votre mot de passe"
+msgstr "Confirm with your password"
+
+#: B_menu/menup_user.php:107
+msgid "Confimez l'envoie"
+msgstr "Confirm sending"
+
+#: B_menu/menup_user.php:155
+msgid "Solde Insufissante!"
+msgstr "Insufficient balance!"
+
+#: B_menu/menup_user.php:167
+msgid "Password Incorrect!"
+msgstr "sword Incorrect!"
+
+#: B_users/ajout_cli.php:11 B_users/confirm.php:12 B_users/profil_user.php:11
+#: index.php:10
+msgid "Bienvenu dans Nuru Banque Of Congo"
+msgstr "Welcome to Nuru Bank Of Congo"
+
+#: B_users/ajout_cli.php:69
+msgid "Select Categorie client"
+msgstr "Select Category Agent"
+
+#: B_users/ajout_cli.php:70 B_users/modifier_compte.php:81
+#: B_users/modifier_compteCli.php:77
+msgid "Particulier"
+msgstr "Particular"
+
+#: B_users/ajout_cli.php:71 B_users/modifier_compte.php:82
+#: B_users/modifier_compteCli.php:78 index.php:160
+msgid "Actionnaire/Investisseur"
+msgstr "Shareholder/Investor"
+
+#: B_users/ajout_cli.php:72 B_users/modifier_compte.php:83
+#: B_users/modifier_compteCli.php:79
+msgid "Candidat a l emploi"
+msgstr "A job candidate"
+
+#: B_users/ajout_cli.php:73 B_users/modifier_compte.php:84
+#: B_users/modifier_compteCli.php:80
+msgid "PME"
+msgstr "SME"
+
+#: B_users/ajout_cli.php:74 B_users/modifier_compte.php:85
+#: B_users/modifier_compteCli.php:81
+msgid "Entreprise"
+msgstr "Compagny"
+
+#: B_users/ajout_cli.php:114
+msgid "A propos du client/Commentaire"
+msgstr "AboCustomer Feedback/Comment"
+
+#: B_users/ajout_cli.php:121
+msgid "Ajouter client"
+msgstr "Add customer"
+
+#: B_users/confirm.php:30
+msgid "Merci de vouloir bien completer votre code d'Authentification"
+msgstr "Please complete your Authentication code"
+
+#: B_users/confirm.php:39
+msgid "Valider"
+msgstr "Validate"
+
+#: B_users/confirm.php:47 B_users/loginsecure.php:116
+msgid "Bienvenu sur"
+msgstr "Welcome"
+
+#: B_users/confirm.php:57 B_users/loginsecure.php:126
+msgid ""
+" Vous pouvez vous connecter a notre banque en ligne et faire\n"
+"                                            des transferts, achetez en ligne "
+"etc. juste en vous connectant\n"
+"                                            sur votre compte sur www."
+"nurubanque.cd"
+msgstr ""
+" You can connect to our online bank and make transfers, buy online etc. just "
+"by logging in on your account on www.nurubanque.cd"
+
+#: B_users/confirm.php:69 B_users/loginsecure.php:138
+msgid ""
+" Avis de ne pas partager ou publier vos identifiants sur internet\n"
+"                                            /Mobile banking et ATM pin avec "
+"d'autres personnes incluant le staff de Nurubanque"
+msgstr ""
+" Notice not to share or publish your credentials on the internet /Mobile "
+"banking and ATM pin with other people including Nuru bank staff"
+
+#: B_users/loginsecure.php:30
+msgid "Username login"
+msgstr "Username login"
+
+#: B_users/loginsecure.php:33
+msgid "Creation compte"
+msgstr "Account creation"
+
+#: B_users/loginsecure.php:40
+msgid "Connetez-vous avec votre compte"
+msgstr "Log in with your account"
+
+#: B_users/loginsecure.php:44 B_users/loginsecure.php:53
+msgid "Erreur!"
+msgstr "Error!"
+
+#: B_users/loginsecure.php:44
+msgid "Vos identifiants n'ont pas ete reconnu. Veuillez recommencer!"
+msgstr "Your credentials were not recognized. Please try again!"
+
+#: B_users/loginsecure.php:64
+msgid "nom d'utilisateur ou adresse mail"
+msgstr "username or email address"
+
+#: B_users/loginsecure.php:68
+msgid "Connection"
+msgstr "Login"
+
+#: B_users/loginsecure.php:75
+msgid " Se souvenir de vous"
+msgstr " Remember you"
+
+#: B_users/loginsecure.php:81
+msgid "Mot de passe oublie?"
+msgstr "Forgot your password?"
+
+#: B_users/loginsecure.php:91
+msgid "Creer votre compte facilement"
+msgstr "Create your account easily"
+
+#: B_users/loginsecure.php:94
+msgid "Votre nom"
+msgstr "Your name"
+
+#: B_users/loginsecure.php:95
+msgid "Votre prenom"
+msgstr "Your first name"
+
+#: B_users/loginsecure.php:96
+msgid "votre adresse mail"
+msgstr "your email"
+
+#: B_users/loginsecure.php:101
+msgid " J'ai lu et j'accepte les termes de politiques de confidentialites"
+msgstr " I have read and accept the terms of privacy policy"
+
+#: B_users/loginsecure.php:105
+msgid "Soumettre"
+msgstr "Submit"
+
+#: B_users/message.php:11
+msgid "Messages"
+msgstr "Posts"
+
+#: B_users/message.php:56 B_users/message.php:92
+msgid ""
+"Les messages sont chiffres par un algorithme propre a nuru_banque. Aucun "
+"autre tiers \n"
+"                                            ne peut les lire. Commencer une "
+"discussion avec les autres sans les importunes svp.\n"
+"                                            En cas de probleme, contactez-"
+"nous 24/24!"
+msgstr ""
+"messages are encrypted by an algorithm specific to nuru_banque. No other "
+"third parties can't read them. Start a discussion with others without "
+"annoying them please. case of problem, contact us 24/24!"
+
+#: B_users/message.php:135
+msgid "Membres actifs"
+msgstr "Active members"
+
+#: B_users/modifier_compte.php:11 B_users/modifier_compteCli.php:11
+msgid "modification de votre compte"
+msgstr "change your account"
+
+#: B_users/modifier_compte.php:41 B_users/modifier_compteCli.php:37
+msgid "Modification du compte Client"
+msgstr "Modification of the Customer account"
+
+#: B_users/modifier_compte.php:72 B_users/modifier_compteCli.php:68
+msgid "Numero Tel"
+msgstr "Phone number"
+
+#: B_users/modifier_compte.php:80 B_users/modifier_compteCli.php:76
+msgid "---Select type Compte--"
+msgstr "---Select type Account--"
+
+#: B_users/modifier_compte.php:89 B_users/modifier_compteCli.php:85
+#: B_users/profil_user.php:109
+msgid "Genre"
+msgstr "Gender"
+
+#: B_users/modifier_compte.php:385
+msgid "A propos de moi"
+msgstr "About me"
+
+#: B_users/modifier_compte.php:392 B_users/modifier_compteCli.php:388
+msgid "Mettre a jour"
+msgstr "Update"
+
+#: B_users/modifier_compteCli.php:381
+msgid "A propos du client/ Commentaire"
+msgstr "About the client/ Comment"
+
+#: B_users/profil_user.php:39
+msgid "Information basiques"
+msgstr "Basic information"
+
+#: B_users/profil_user.php:44
+msgid "Noms complets"
+msgstr "Full names"
+
+#: B_users/profil_user.php:54
+msgid "Adresse Email"
+msgstr "E-mail address"
+
+#: B_users/profil_user.php:63
+msgid "Nuru banque ID"
+msgstr "Nuru banque ID"
+
+#: B_users/profil_user.php:80
+msgid "Parametre du compte"
+msgstr "account settings"
+
+#: B_users/profil_user.php:84
+msgid "Langage"
+msgstr "Language"
+
+#: B_users/profil_user.php:94
+msgid "Privacy Settings"
+msgstr "Privacy Settings"
+
+#: B_users/profil_user.php:96
+msgid ""
+"Seuls les administrateurs et les agents de la banque\n"
+"                                        qui peuvent voir acces a vos donnees "
+"pour bien proteger votre compte"
+msgstr ""
+"Only directors and officers of the bank who can see access to your data to "
+"properly protect your account"
+
+#: B_users/profil_user.php:118
+msgid "Numero de Tel"
+msgstr "Phone number"
+
+#: B_users/profil_user.php:127
+msgid "Type de compte"
+msgstr "Type of account"
+
+#: B_users/profil_user.php:172
+msgid "Apropos"
+msgstr "About"
+
+#: B_users/rapports.php:35
+msgid "Rapports Journaliers"
+msgstr "Daily report"
+
+#: B_users/rapports.php:47
+msgid "Rapport Journalier du client"
+msgstr "Daily report of Customer"
+
+#: B_users/rapports.php:49
+msgid "Envoyer le rapport au client"
+msgstr "Send report"
+
+#: B_users/rapports.php:59 B_users/transaction.php:56
+msgid "Date"
+msgstr "Dated"
+
+#: B_users/rapports.php:61
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+#: B_users/rapports.php:62
+msgid "Details"
+msgstr "Details"
+
+#: B_users/rapports.php:63
+msgid "Solde ($)"
+msgstr "Balance"
+
+#: B_users/rapports.php:64
+msgid "Montant ($)"
+msgstr "Amount"
+
+#: B_users/transaction.php:30
+msgid "Historique de transaction"
+msgstr "Transaction history"
+
+#: B_users/transaction.php:34
+msgid "Generer le rapports"
+msgstr "Generate reports"
+
+#: B_users/transaction.php:59
+msgid "solde"
+msgstr "Balance"
+
+#: B_users/transaction.php:60
+msgid "Retrait/Depot"
+msgstr "Withdrawal / Deposit"
+
+#: B_users/transaction.php:61
+msgid "montant"
+msgstr "Amount"
+
+#: index.php:28
+msgid "Mon compte"
+msgstr "My Account"
+
+#: index.php:31 index2.php:12
+msgid "Mes payements"
+msgstr "My payments"
+
+#: index.php:34
+msgid "Mon epargne"
+msgstr "My savings"
+
+#: index.php:37
+msgid "Mes credits"
+msgstr "My credits"
+
+#: index.php:40
+msgid "intermediaire Financiers"
+msgstr "financial intermediary"
+
+#: index.php:43
+msgid "Statistiques"
+msgstr "Statistics"
+
+#: index.php:62 index.php:73
+msgid "Nuru Banque"
+msgstr "Nuru Banque"
+
+#: index.php:62
+msgid " avec plus d'avantages"
+msgstr " with more benefits"
+
+#: index.php:63
+msgid "Beneficiez de nombreux produits et services lie a votre compte"
+msgstr "Benefit from many products and services related to your account"
+
+#: index.php:65 index.php:76 index.php:87 index.php:98 index.php:109
+#: index.php:120
+msgid "Debuter avec nous"
+msgstr "Start with us"
+
+#: index.php:73
+msgid "avec plus de facilite"
+msgstr "with more ease"
+
+#: index.php:74
+msgid "Epargnez avec Nuru Merchant Bank et realisez vos projets avec facilite"
+msgstr "Save with Nuru Merchant Bank and realize your dreams with ease"
+
+#: index.php:84
+msgid "pour suivre votre avenir"
+msgstr "pursue your future"
+
+#: index.php:85
+msgid "Economisez plus d'argent en epargnant pour le prochain venu"
+msgstr "Save more money by saving for newcomers"
+
+#: index.php:95
+msgid " avec plus d'oportunites"
+msgstr " with more opportunities"
+
+#: index.php:96
+msgid ""
+"Effectuez toutes vos operations quotidiennes en toutes securite avec votre "
+"compte sur Nuru Merchant Bank"
+msgstr "Perform all your daily operations safely with your account"
+
+#: index.php:106
+msgid " avec plus simplicite"
+msgstr " simplicity"
+
+#: index.php:107
+msgid ""
+"effectuez vos retraits en USD ou CDF avec nos cartes bancaires et continuez "
+"vos achats"
+msgstr ""
+"perform withdrawal  USD or CDF with the credit card and continue your "
+"purchases"
+
+#: index.php:117
+msgid "toujours a vos cotes et prete a vous servir"
+msgstr " A bank always at your side ready to serve you"
+
+#: index.php:118
+msgid ""
+"Nous respectons nos clients, c'est notre premiere regle, qui nous oblige a "
+"bien securiser votre argent"
+msgstr ""
+"We respect our customers, this is our first rule, which requires us to "
+"secure your money well"
+
+#: index.php:134
+msgid "POUR UN ACCES RAPIDE, DITES-NOUS QUI VOUS ETES "
+msgstr "For quick access, tell us who you are "
+
+#: index.php:148
+msgid "Un particulier"
+msgstr "A particular"
+
+#: index.php:172
+msgid "Un candidat a l'emploi"
+msgstr "A job candidate"
+
+#: index.php:184
+msgid " Une PME"
+msgstr " SME"
+
+#: index.php:195
+msgid "Une entreprise"
+msgstr "Compagny"
+
+#: index.php:213
+msgid ""
+"Nous tenons a remercier l'ensemble de nos clients de nous avoir fait "
+"confiance durant toutes ces annees\n"
+"                                                . Nous serons toujours la "
+"pour vous servire. Heureuse annee 2022 a vous."
+msgstr ""
+"We would like to thank all of our customers for trusting us over the years. "
+"We will always be here to serve you. Happy new year 2022 to you."
+
+#: index.php:216
+msgid "_STAFF Group"
+msgstr "_STAFF Group"
+
+#: index.php:230 index.php:244
+msgid "Liste parmi les meilleurs banques du pays"
+msgstr "Listed and among the best country banks"
+
+#: index2.php:11 index3.php:11
+msgid "Bienvenu"
+msgstr "Welcome"
+
+#~ msgid "Publier une annonce"
+#~ msgstr "Post an ad"
+
+#~ msgid "Prendre une photo du client"
+#~ msgstr "Take a picture of the customer"
+
+#~ msgid "Transfert"
+#~ msgstr "Transfer"
+
+#~ msgid "votre nom"
+#~ msgstr "your name"
+
+#~ msgid "prenom"
+#~ msgstr "first name"
+
+#~ msgid "votre matricule"
+#~ msgstr "your number"
+
+#~ msgid "votre password"
+#~ msgstr "your password"
+
+#~ msgid "Ajouter un mandateur"
+#~ msgstr "Add a proxy"
+
+#~ msgid ""
+#~ "Vous pouvez vous connecter a notre banque en ligne et faire\n"
+#~ "                                            des transferts, achetez en "
+#~ "ligne etc. juste en vous connectant\n"
+#~ "                                            sur votre compte sur www."
+#~ "nurubanque.cd"
+#~ msgstr "You can connect to our online bank and make transfers, buy online"
+
+#~ msgid ""
+#~ "Avis de ne pas partager ou publier vos identifiants sur internet\n"
+#~ "                                            /Mobile banking et ATM pin "
+#~ "avec d'autres personnes incluant le staff de Nurubanque"
+#~ msgstr ""
+#~ "Notice not to share or publish your credentials on the internet/Mobile "
+#~ "banking and ATM pin with other people including Nuru  bank staff"
+
+#~ msgid "Matricule:"
+#~ msgstr "Registration number:"
+
+#~ msgid "Adresse-mail"
+#~ msgstr "Mail address"
+
+#~ msgid "Adresse 1"
+#~ msgstr "Address 1"
+
+#~ msgid "N* de piece comptable"
+#~ msgstr "No. of accounting document"
+
+#~ msgid "Cash/Cheque/Transfert"
+#~ msgstr "Cash/Check/Transfer"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Debit/Credit"
+#~ msgstr "Debit/Credit"
